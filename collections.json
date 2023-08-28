@@ -1,0 +1,444 @@
+{
+    "collectionProduto": [
+      {
+        "codproduto": "1001",
+        "nomeproduto": "Laptop Ultra",
+        "descproduto": "Um laptop ultraleve com desempenho excepcional.",
+        "precoproduto": 3599.99,
+        "qtdEstoqueUni": 25,
+        "catproduto": "Eletrônicos"
+      },
+      {
+        "codproduto": "1002",
+        "nomeproduto": "Camiseta Guti",
+        "descproduto": "Camiseta de algodão com estampa colorida",
+        "precoproduto": 30,
+        "qtdEstoqueUni": 150,
+        "catproduto": "Vestuário"
+      },
+      {
+        "codproduto": "1003",
+        "nomeproduto": "Smartphone Infinity Z",
+        "descproduto": "Smartphone com câmera de alta resolução e desempenho rápido.",
+        "precoproduto": 999,
+        "qtdEstoqueUni": 50,
+        "catproduto": "Eletrônicos"
+      },
+      {
+        "codproduto": "1004",
+        "nomeproduto": "Tênis Esportivo PowerRun",
+        "descproduto": "Tênis de corrida com amortecimento avançado.",
+        "precoproduto": 149.99,
+        "qtdEstoqueUni": 75,
+        "catproduto": "Calçados"
+      },
+      {
+        "codproduto": "1005",
+        "nomeproduto": " Livro de Mistério ",
+        "descproduto": " Um romance cheio de mistério",
+        "precoproduto": 24.50,
+        "qtdEstoqueUni": 40,
+        "catproduto": "Livros"
+      },
+      {
+        "codproduto": "1006",
+        "nomeproduto": "Café Gourmet",
+        "descproduto": "vCafé em grãos com sabor e aroma intensos.",
+        "precoproduto": 18.20,
+        "qtdEstoqueUni": 120,
+        "catproduto": "Alimentos"
+      },
+      {
+        "codproduto": "1007",
+        "nomeproduto": "Fones de Ouvido Sem Fio",
+        "descproduto": "Fones de ouvido sem fio com cancelamento de ruído.",
+        "precoproduto": 129.99,
+        "qtdEstoqueUni": 60,
+        "catproduto": "Eletrônicos"
+      },
+      {
+        "codproduto": "1008",
+        "nomeproduto": "Mochila",
+        "descproduto": "Mochila resistente e espaçosa",
+        "precoproduto": 79.99,
+        "qtdEstoqueUni": 30,
+        "catproduto": "Acessórios"
+      },
+      {
+        "codproduto": "1009",
+        "nomeproduto": "Sabonete Artesanal Lavanda",
+        "descproduto": "Sabonete artesanal com fragrância relaxante de lavanda",
+        "precoproduto":  7.99,
+        "qtdEstoqueUni": 200,
+        "catproduto": "Cuidados Pessoais"
+      },
+      {
+        "codproduto": "1010%",
+        "nomeproduto": "Chocolate Amargo 70%",
+        "descproduto": "Barra de chocolate amargo com 70% de cacau.",
+        "precoproduto": 10,
+        "qtdEstoqueUni": 80,
+        "catproduto": " Alimentos"
+      }
+    ],
+    
+    "collectionEmpregado": [
+        
+              {
+                "nome": "João Silva",
+                "idade": 32,
+                "cargo": "Desenvolvedor de Software",
+                "sal": 5000,
+                "dpto": "Tecnologia",
+                "email": "joao.silva@example.com",
+                "sexo" : "masculino",
+                "status_sindical": "N"
+              },
+              {
+                "nome": "Maria Santos",
+                "idade": 28,
+                "cargo": "Analista de Marketing",
+                "sal": 4500,
+                "dpto": "Marketing",
+                "email": "maria.santos@example.com",
+                "sexo" : "feminino",
+                "status_sindical": "N"
+              },
+              {
+                "nome": "Pedro Oliveira",
+                "idade": 35,
+                "cargo": "Gerente de Vendas",
+                "sal": 6000,
+                "dpto": "Vendas",
+                "email": "pedro.oliveira@example.com",
+                "sexo" : "masculino",
+                "status_sindical": "N"
+              },
+              {
+                "nome": "Ana Lima",
+                "idade": 29,
+                "cargo": "Engenheira de Produção",
+                "sal": 5500,
+                "dpto": "Produção",
+                "email": "ana.lima@example.com",
+                "sexo" : "feminino",
+                "status_sindical": "N"
+              },
+              {
+                "nome": "Rafael Almeida",
+                "idade": 31,
+                "cargo": "Analista Financeiro",
+                "sal": 4800,
+                "dpto": "Finanças",
+                "email": "rafael.almeida@example.com",
+                "sexo" : "masculino",
+                "status_sindical": "N"
+              },
+              {
+                "nome": "Camila Santos",
+                "idade": 27,
+                "cargo": "Designer Gráfico",
+                "sal": 4200,
+                "dpto": "Design",
+                "email": "camila.santos@example.com",
+                "sexo" : "feminino",
+                "status_sindical": "N"
+              },
+              {
+                "nome": "Lucas Fernandes",
+                "idade": 26,
+                "cargo": "Analista de Recursos Humanos",
+                "sal": 4700,
+                "dpto": "Recursos Humanos",
+                "email": "lucas.fernandes@example.com",
+                "sexo" : "masculino",
+                "status_sindical": "N"
+              },
+              {
+                "nome": "Isabela Souza",
+                "idade": 33,
+                "cargo": "Gerente de Projetos",
+                "sal": 6500,
+                "dpto": "Projetos",
+                "email": "isabela.souza@example.com",
+                "sexo" : "feminino",
+                "status_sindical": "N"
+              },
+              {
+                "nome": "Thiago Lima",
+                "idade": 30,
+                "cargo": "Analista de Qualidade",
+                "sal": 4900,
+                "dpto": "Qualidade",
+                "email": "thiago.lima@example.com",
+                "sexo" : "masculino",
+                "status_sindical": "N"
+              },
+              {
+                "nome": "Juliana Fernandes",
+                "idade": 28,
+                "cargo": "Atendente de Suporte",
+                "sal": 4000,
+                "dpto": "Suporte",
+                "email": "juliana.fernandes@example.com",
+                "sexo" : "feminino",
+                "status_sindical": "N"
+              }
+],
+    "collectionDependentes": [
+      {
+        "empregado": "João Silva",
+        "nome": "Carlos Silva",
+        "idade": 8,
+        "filiacao": "Filho",
+        "naEscola": true,
+        "convenio": true
+      },
+      {
+        "empregado": "Maria Santos",
+        "nome": "Ana Santos",
+        "idade": 5,
+        "filiacao": "Filha",
+        "naEscola": true,
+        "convenio": true
+      },
+      {
+        "empregado": "Pedro Oliveira",
+        "nome": "Mariana Oliveira",
+        "idade": 29,
+        "filiacao": "Cônjuge",
+        "naEscola": false,
+        "convenio": true
+      },
+      {
+        "empregado": "Ana Lima",
+        "nome": "Gustavo Lima",
+        "idade": 15,
+        "filiacao": "Filho",
+        "naEscola": true,
+        "convenio": true
+      },
+      {
+        "empregado": "Rafael Almeida",
+        "nome": "Lúcia Almeida",
+        "idade": 58,
+        "filiacao": "Mãe",
+        "naEscola": false,
+        "convenio": false
+      },
+      {
+        "empregado": "Camila Santos",
+        "nome": "Lucas Santos",
+        "idade": 3,
+        "filiacao": "Filho",
+        "naEscola": false,
+        "convenio": true
+      },
+      {
+        "empregado": "Lucas Fernandes",
+        "nome": "Isabel Fernandes",
+        "idade": 25,
+        "filiacao": "Cônjuge",
+        "naEscola": false,
+        "convenio": true
+      },
+      {
+        "empregado": "Isabela Souza",
+        "nome": "Rodrigo Souza",
+        "idade": 32,
+        "filiacao": "Cônjuge",
+        "naEscola": false,
+        "convenio": true
+      },
+
+    
+      {
+        "empregado": "Thiago Lima",
+        "nome": "Sophia Lima",
+        "idade": 10,
+        "filiacao": "Filha",
+        "naEscola": true,
+        "convenio": false
+      },
+      {
+        "empregado": "Juliana Fernandes",
+        "nome": "Ricardo Fernandes",
+        "idade": 63,
+        "filiacao": "Pai",
+        "naEscola": false,
+        "convenio": true
+
+      }
+    ],
+        "collectionItensPedido": [
+          {
+            "nPedido": "1001",
+            "dataPedido": "2023-08-27",
+            "cliente": "João Silva",
+            "itensPedido": [
+              {
+                "produto": "Laptop UltraBook XYZ",
+                "qtd": 2,
+                "precoUnit": 3599.99
+              },
+              {
+                "produto": "Camiseta Estampada ABC",
+                "qtd": 3,
+                "precoUnit": 29.99
+              }
+            ],
+            "totalPedido": 7329.94
+          },
+          {
+            "nPedido": "1002",
+            "dataPedido": "2023-08-28",
+            "cliente": "Maria Santos",
+            "itensPedido": [
+              {
+                "produto": "Chocolate Amargo 70%",
+                "qtd": 5,
+                "precoUnit": 9.49
+              },
+              {
+                "produto": "Tênis Esportivo PowerRun",
+                "qtd": 1,
+                "precoUnit": 149.99
+              }
+            ],
+            "totalPedido": 203.41
+          },
+          {
+            "nPedido": "1003",
+            "dataPedido": "2023-08-29",
+            "cliente": "Pedro Oliveira",
+            "itensPedido": [
+              {
+                "produto": "Smartphone Infinity Z",
+                "qtd": 1,
+                "precoUnit": 999.00
+              }
+            ],
+            "totalPedido": 999.00
+          },
+          {
+            "nPedido": "1004",
+            "dataPedido": "2023-08-30",
+            "cliente": "Ana Lima",
+            "itensPedido": [
+              {
+                "produto": "Fones de Ouvido Sem Fio SonicWave",
+                "qtd": 2,
+                "precoUnit": 129.50
+              }
+            ],
+            "totalPedido": 259.00
+          },
+          {
+            "nPedido": "1005",
+            "dataPedido": "2023-08-31",
+            "cliente": "Rafael Almeida",
+            "itensPedido": [
+              {
+                "produto": "Café Gourmet Aroma Intenso",
+                "qtd": 10,
+                "precoUnit": 18.99
+              }
+            ],
+            "totalPedido": 189.90
+          }
+        ],
+            "collectionPedido": [
+              {
+                "nPedido": "1001",
+                "Item": 1,
+                "produto": "Laptop UltraBook XYZ",
+                "qtd": 2,
+                "precoUnit": 3599.99,
+                "subtotal": 7199.98
+              },
+              {
+                "nPedido": "1001",
+                "Item": 2,
+                "produto": "Camiseta Estampada ABC",
+                "qtd": 3,
+                "precoUnit": 29.99,
+                "subtotal": 89.97
+              },
+              {
+                "nPedido": "1002",
+                "Item": 1,
+                "produto": "Chocolate Amargo 70%",
+                "qtd": 5,
+                "precoUnit": 9.49,
+                "subtotal": 47.45
+              },
+              {
+                "nPedido": "1002",
+                "Item": 2,
+                "produto": "Tênis Esportivo PowerRun",
+                "qtd": 1,
+                "precoUnit": 149.99,
+                "subtotal": 149.99
+              },
+              {
+                "nPedido": "1003",
+                "Item": 1,
+                "produto": "Smartphone Infinity Z",
+                "qtd": 1,
+                "precoUnit": 999.00,
+                "subtotal": 999.00
+              },
+              {
+                "nPedido": "1004",
+                "Item": 1,
+                "produto": "Fones de Ouvido Sem Fio SonicWave",
+                "qtd": 2,
+                "precoUnit": 129.50,
+                "subtotal": 259.00
+              },
+              {
+                "nPedido": "1005",
+                "Item": 1,
+                "produto": "Café Gourmet Aroma Intenso",
+                "qtd": 10,
+                "precoUnit": 18.99,
+                "subtotal": 189.90
+              },
+              {
+                "nPedido": "1005",
+                "Item": 2,
+                "produto": "Livro de Mistério 'Enigma da Lua'",
+                "qtd": 1,
+                "precoUnit": 24.95,
+                "subtotal": 24.95
+              },
+              {
+                "nPedido": "1005",
+                "Item": 3,
+                "produto": "Sabonete Artesanal Lavanda Relaxante",
+                "qtd": 3,
+                "precoUnit": 7.50,
+                "subtotal": 22.50
+              },
+              {
+                "nPedido": "1005",
+                "Item": 4,
+                "produto": "Mochila Aventura Explorer",
+                "qtd": 1,
+                "precoUnit": 79.99,
+                "subtotal": 79.99
+              }
+            ]
+          }
+
+          
+    
+
+      
+
+
+
+  
+
+
+
